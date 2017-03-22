@@ -8,3 +8,7 @@ Date extension for add
 -month
 -year
 to Date datatype
+
+
+# How to install
+<script src="addDate.js"></script>
